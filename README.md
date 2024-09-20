@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-r-7925" alt="shreyas-r-7925" /></a> </p>
 
-- 🌱 I’m currently learning **Object Oriented Design**
-
 - 📫 How to reach me **shrer7925@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
