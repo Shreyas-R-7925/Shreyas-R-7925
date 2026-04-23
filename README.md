@@ -1,68 +1,47 @@
-# Shreyas
+# 𝚂𝚑𝚛𝚎𝚢𝚊𝚜
 
 ```txt
-latency > abstraction
-precision > noise
+backend • systems • performance
 ```
 
 ---
 
-### profile
+### 𝚊𝚋𝚘𝚞𝚝
 
-building systems where performance actually matters
-interested in the intersection of **low-level engineering + markets**
+```
+backend engineer
 
-* c++ / java / c
-* concurrency, memory, system behavior
-* redis-style architectures
+building backend systems under real-world constraints  
+focused on performance, concurrency, and system behavior  
 
-currently studying:
-
-* market microstructure
-* basics of quantitative finance
-* foundations of ai (slowly)
-
----
-
-### stack
-
-```txt
-languages      :: c++  java  c
-focus          :: systems  latency  backend
-direction      :: quant systems  high-performance infra
+- java / c++ / c  
+- distributed systems  
 ```
 
 ---
 
-### current trajectory
+### 𝚜𝚝𝚊𝚌𝚔
 
-* writing systems from scratch to understand constraints
-* thinking in terms of throughput, latency, and trade-offs
-* moving from "works" → "efficient" → "predictable"
-
----
-
-### philosophy
-
-> if you can't explain the performance,
-> you don't understand the system
-
----
-
-### contact
-
-```txt
-email     :: shrer7925@gmail.com
-linkedin  :: linkedin.com/in/shreyas-r-2b2404233/
+```
+languages      :: c++  java  c  
+systems        :: redis  mysql  mongodb  
+infra          :: argocd  grafana  logchef  
 ```
 
 ---
 
-### note
+### 𝚖𝚒𝚗𝚍𝚜𝚎𝚝
 
-no edge yet.
-working on it.
+```
+> measure → optimize → repeat
+> understand the bottleneck
+```
 
-```txt
-// end
+---
+
+### 𝚗𝚘𝚝𝚎
+
+```
+early in the journey.
+focused on getting better at building reliable, efficient systems.
 ```
