@@ -42,6 +42,6 @@ infra          :: argocd  grafana  logchef
 ### 𝚗𝚘𝚝𝚎
 
 ```
-early in the journey.
-focused on getting better at building reliable, efficient systems.
+focused on building reliable, efficient systems  
+and understanding their behavior under load
 ```
